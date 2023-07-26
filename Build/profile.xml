@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="testcases.profileAndFAQsTestCases.TCP001" />
+			<class name="testcases.profileAndFAQsTestCases.TCP002" />
+			<class name="testcases.profileAndFAQsTestCases.TCP003" />
+			<class name="testcases.profileAndFAQsTestCases.TCP004" />
+			<class name="testcases.profileAndFAQsTestCases.TCP005" />
+			<class name="testcases.profileAndFAQsTestCases.TCP006" />
+			<class name="testcases.profileAndFAQsTestCases.TCP007" />
+			<class name="testcases.profileAndFAQsTestCases.TCP008" />
+			<class name="testcases.profileAndFAQsTestCases.TCP009" />
+			<class name="testcases.profileAndFAQsTestCases.TCP010" />
+			<class name="testcases.profileAndFAQsTestCases.TCP011" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

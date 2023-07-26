@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="testcases.heatOnDemandTestcases.TCHOD001" />
+			<class name="testcases.heatOnDemandTestcases.TCHOD002" />
+			<class name="testcases.heatOnDemandTestcases.TCHOD003" />
+			<class name="testcases.heatOnDemandTestcases.TCHOD004" />
+			<class name="testcases.heatOnDemandTestcases.TCHOD005" />
+			<class name="testcases.heatOnDemandTestcases.TCHOD006" />
+			
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

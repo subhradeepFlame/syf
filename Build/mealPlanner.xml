@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="testcases.mealplannerTestcases.TCMP001" />
+			<class name="testcases.mealplannerTestcases.TCMP002" />
+			<class name="testcases.mealplannerTestcases.TCMP003" />
+			<class name="testcases.mealplannerTestcases.TCMP004" />
+			<class name="testcases.mealplannerTestcases.TCMP005" />
+			<class name="testcases.mealplannerTestcases.TCMP006" />
+			<class name="testcases.mealplannerTestcases.TCMP007" />
+			<class name="testcases.mealplannerTestcases.TCMP008" />
+			<class name="testcases.mealplannerTestcases.TCMP009" />
+			<class name="testcases.mealplannerTestcases.TCMP010" />
+			<class name="testcases.mealplannerTestcases.TCMP011" />
+			<class name="testcases.mealplannerTestcases.TCMP012" />
+			<class name="testcases.mealplannerTestcases.TCMP013" />
+			<class name="testcases.mealplannerTestcases.TCMP014" />
+			<class name="testcases.mealplannerTestcases.TCMP015" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
